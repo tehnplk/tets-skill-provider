@@ -13,7 +13,7 @@
 | #   | column       | composite key (Y/N) | new composite key(Y/n) |
 | --- | ------------ | ------------------- | ---------------------- |
 | 1   | hoscode      | Y                   | Y                      |
-| 2   | an           | Y                   | Y                      |
+| 2   | an_censored  | Y                   | Y                      |
 | 3   | bedno        | Y                   | Y                      |
 | 4   | export_code  | Y                   | Y                      |
 | 5   | regdate      | Y                   | Y                      |
